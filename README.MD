@@ -1,6 +1,3 @@
-# Jiaxin Sun HW4
-
-
 # Project Structure
 
 There are 3 classes:
