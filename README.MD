@@ -1,7 +1,7 @@
-#Jiaxin Sun HW4
+# Jiaxin Sun HW4
 
 
-#Project Structure
+# Project Structure
 
 There are 3 classes:
 	Main.java
@@ -10,7 +10,7 @@ There are 3 classes:
 	Searching.java -- contains 3 methods that are needed for this homework. 
 
 
-#demo
+# demo
 Choose sensor: 
     0. Quit
     1. Heart Rate Number
